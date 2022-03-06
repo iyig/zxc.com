@@ -1,0 +1,3 @@
+Merhaba Dünya
+Bugün hava soğuk
+console.log('merhaba')
